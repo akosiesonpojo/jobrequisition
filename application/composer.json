@@ -1,0 +1,13 @@
+{
+    "name": "jimdespojo/march242018",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jim Despojo",
+            "email": "trainee1@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
